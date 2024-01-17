@@ -1,2 +1,2 @@
 # App-Release
-Collection of App Release
+Collection of Free App Release
